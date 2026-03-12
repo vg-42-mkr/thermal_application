@@ -1,0 +1,331 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/vikram.gurram/CursorProjects/thermal_application/android_app/app/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /Users/vikram.gurram/CursorProjects/thermal_application/android_app/app/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /Users/vikram.gurram/CursorProjects/thermal_application/android_app/app/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /Users/vikram.gurram/CursorProjects/thermal_application/android_app/app/src/main/AndroidManifest.xml:2:1-40:12
+MERGED from [androidx.compose.material3:material3:1.1.2] /Users/vikram.gurram/.gradle/caches/8.9/transforms/82bf31392b73b60d15233224aa9ca357/transformed/material3-1.1.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.8.1] /Users/vikram.gurram/.gradle/caches/8.9/transforms/d415e4abba96d7d28a48455813011716/transformed/activity-1.8.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity-ktx:1.8.1] /Users/vikram.gurram/.gradle/caches/8.9/transforms/0dd29ff4cefcc165e4d58069bece8d96/transformed/activity-ktx-1.8.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity-compose:1.8.1] /Users/vikram.gurram/.gradle/caches/8.9/transforms/b8df9889205446d921f6a27e2552dfe3/transformed/activity-compose-1.8.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-core-android:1.5.4] /Users/vikram.gurram/.gradle/caches/8.9/transforms/53b41f9ab0de5bbd8be4a13322272732/transformed/animation-core-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-icons-core-android:1.5.4] /Users/vikram.gurram/.gradle/caches/8.9/transforms/747a4aa0a949c19308fd6f4baf4bad19/transformed/material-icons-core-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-icons-extended-android:1.5.4] /Users/vikram.gurram/.gradle/caches/8.9/transforms/d001cbaea330d666e6d03f4d6ca439f8/transformed/material-icons-extended-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-ripple-android:1.5.4] /Users/vikram.gurram/.gradle/caches/8.9/transforms/518ab34036c44700deee0be4ee20fc4b/transformed/material-ripple-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-android:1.5.4] /Users/vikram.gurram/.gradle/caches/8.9/transforms/33dd6451a3c2afc4182ff6e0ba8a1fd5/transformed/animation-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.5.4] /Users/vikram.gurram/.gradle/caches/8.9/transforms/b03867e83aa6a398b9a346977d9b8616/transformed/foundation-layout-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-android:1.5.4] /Users/vikram.gurram/.gradle/caches/8.9/transforms/a4818163090b0295d3e57cbb3da6e80c/transformed/foundation-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-unit-android:1.5.4] /Users/vikram.gurram/.gradle/caches/8.9/transforms/295c5182329adb814a789fd6f8f6e364/transformed/ui-unit-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-geometry-android:1.5.4] /Users/vikram.gurram/.gradle/caches/8.9/transforms/ee27efe0561401074e5bd72412aa9988/transformed/ui-geometry-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-util-android:1.5.4] /Users/vikram.gurram/.gradle/caches/8.9/transforms/c0c59750430fc59e4ad6731db9ba23ea/transformed/ui-util-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.5.4] /Users/vikram.gurram/.gradle/caches/8.9/transforms/ff97859a19d4bc912e55d442026b8084/transformed/ui-tooling-preview-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-graphics-android:1.5.4] /Users/vikram.gurram/.gradle/caches/8.9/transforms/008ed08077d436e455a4a6ee1a6741c8/transformed/ui-graphics-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-text-android:1.5.4] /Users/vikram.gurram/.gradle/caches/8.9/transforms/efe271590e6cb1c56d15cf1b4b6a11d5/transformed/ui-text-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.4.0] /Users/vikram.gurram/.gradle/caches/8.9/transforms/5382c7c155f66f0bef58a68acf56c089/transformed/emoji2-1.4.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/vikram.gurram/.gradle/caches/8.9/transforms/ea77b062097edc78daea63d6aee8a539/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /Users/vikram.gurram/.gradle/caches/8.9/transforms/b568302b8f2a93a77bbad84b524b4f8b/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /Users/vikram.gurram/.gradle/caches/8.9/transforms/aa451bd7836dcc5babca217e52ec8307/transformed/lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] /Users/vikram.gurram/.gradle/caches/8.9/transforms/6e30b4d4991cb3ad60bc3593e5a24afa/transformed/lifecycle-viewmodel-ktx-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/vikram.gurram/.gradle/caches/8.9/transforms/6e9be89b67822459b7dc86c30f3b146f/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/vikram.gurram/.gradle/caches/8.9/transforms/b544fab7c4d2b2df03c3dcb4355edd90/transformed/savedstate-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /Users/vikram.gurram/.gradle/caches/8.9/transforms/d5c59b4b8543330647c78f83c15be06b/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /Users/vikram.gurram/.gradle/caches/8.9/transforms/ae289b0010cd942cd58f04f47c86abc0/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.2] /Users/vikram.gurram/.gradle/caches/8.9/transforms/6d2176dc697b0fbdb59f023542ef0e8f/transformed/lifecycle-runtime-ktx-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose:2.6.2] /Users/vikram.gurram/.gradle/caches/8.9/transforms/ab1a05a818fc898bac32567633c922ec/transformed/lifecycle-runtime-compose-2.6.2/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-android:1.5.4] /Users/vikram.gurram/.gradle/caches/8.9/transforms/794342adf9940a7ab5878b5fe6a24596/transformed/ui-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/vikram.gurram/.gradle/caches/8.9/transforms/2404267297f58be4ec46cf663b4bb140/transformed/autofill-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.12.0] /Users/vikram.gurram/.gradle/caches/8.9/transforms/168bc7e0993ab5c9943a310a32270f14/transformed/core-1.12.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/vikram.gurram/.gradle/caches/8.9/transforms/38e83b78a9980d2ac253eef9282eb37e/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.core:core-ktx:1.12.0] /Users/vikram.gurram/.gradle/caches/8.9/transforms/2fd7f75214b38a9de28337433fefa400/transformed/core-ktx-1.12.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/vikram.gurram/.gradle/caches/8.9/transforms/4c389516d2c39fc31f3be5862cf6a808/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.5.4] /Users/vikram.gurram/.gradle/caches/8.9/transforms/8a565868c6bf34b8f02354694d6357bc/transformed/runtime-saveable-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-android:1.5.4] /Users/vikram.gurram/.gradle/caches/8.9/transforms/fe272848f4e20646970e1e59550d8357/transformed/runtime-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/vikram.gurram/.gradle/caches/8.9/transforms/594d6cc76d569382bca5d95943ae2d26/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/vikram.gurram/.gradle/caches/8.9/transforms/8a3604989efdcd2222ea9820ca10ef9f/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/vikram.gurram/.gradle/caches/8.9/transforms/fdba6b52352237eccbcca2adb38fbb51/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/vikram.gurram/.gradle/caches/8.9/transforms/e137a0f8ba4fe09254718d9094d16e51/transformed/profileinstaller-1.3.0/AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/vikram.gurram/.gradle/caches/8.9/transforms/099a3c68de60d0a5289d1a1f1c48b873/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/vikram.gurram/.gradle/caches/8.9/transforms/5fc0e0d86a83911aa9a6a55161cd2d4c/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+	package
+		INJECTED from /Users/vikram.gurram/CursorProjects/thermal_application/android_app/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/vikram.gurram/CursorProjects/thermal_application/android_app/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/vikram.gurram/CursorProjects/thermal_application/android_app/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/vikram.gurram/CursorProjects/thermal_application/android_app/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/vikram.gurram/CursorProjects/thermal_application/android_app/app/src/main/AndroidManifest.xml:3:5-67
+	android:name
+		ADDED from /Users/vikram.gurram/CursorProjects/thermal_application/android_app/app/src/main/AndroidManifest.xml:3:22-64
+uses-permission#android.car.permission.CAR_ENERGY
+ADDED from /Users/vikram.gurram/CursorProjects/thermal_application/android_app/app/src/main/AndroidManifest.xml:5:5-73
+	android:name
+		ADDED from /Users/vikram.gurram/CursorProjects/thermal_application/android_app/app/src/main/AndroidManifest.xml:5:22-70
+uses-permission#android.car.permission.CAR_ENERGY_PORTS
+ADDED from /Users/vikram.gurram/CursorProjects/thermal_application/android_app/app/src/main/AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from /Users/vikram.gurram/CursorProjects/thermal_application/android_app/app/src/main/AndroidManifest.xml:6:22-76
+uses-permission#android.car.permission.CAR_SPEED
+ADDED from /Users/vikram.gurram/CursorProjects/thermal_application/android_app/app/src/main/AndroidManifest.xml:7:5-72
+	android:name
+		ADDED from /Users/vikram.gurram/CursorProjects/thermal_application/android_app/app/src/main/AndroidManifest.xml:7:22-69
+uses-permission#android.car.permission.READ_CAR_STEERING
+ADDED from /Users/vikram.gurram/CursorProjects/thermal_application/android_app/app/src/main/AndroidManifest.xml:8:5-80
+	android:name
+		ADDED from /Users/vikram.gurram/CursorProjects/thermal_application/android_app/app/src/main/AndroidManifest.xml:8:22-77
+uses-permission#android.car.permission.CAR_EXTERIOR_ENVIRONMENT
+ADDED from /Users/vikram.gurram/CursorProjects/thermal_application/android_app/app/src/main/AndroidManifest.xml:9:5-87
+	android:name
+		ADDED from /Users/vikram.gurram/CursorProjects/thermal_application/android_app/app/src/main/AndroidManifest.xml:9:22-84
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/vikram.gurram/CursorProjects/thermal_application/android_app/app/src/main/AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from /Users/vikram.gurram/CursorProjects/thermal_application/android_app/app/src/main/AndroidManifest.xml:10:22-76
+uses-permission#android.car.permission.CAR_NAVIGATION_MANAGER
+ADDED from /Users/vikram.gurram/CursorProjects/thermal_application/android_app/app/src/main/AndroidManifest.xml:11:5-85
+	android:name
+		ADDED from /Users/vikram.gurram/CursorProjects/thermal_application/android_app/app/src/main/AndroidManifest.xml:11:22-82
+application
+ADDED from /Users/vikram.gurram/CursorProjects/thermal_application/android_app/app/src/main/AndroidManifest.xml:12:5-39:19
+INJECTED from /Users/vikram.gurram/CursorProjects/thermal_application/android_app/app/src/main/AndroidManifest.xml:12:5-39:19
+MERGED from [androidx.emoji2:emoji2:1.4.0] /Users/vikram.gurram/.gradle/caches/8.9/transforms/5382c7c155f66f0bef58a68acf56c089/transformed/emoji2-1.4.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.4.0] /Users/vikram.gurram/.gradle/caches/8.9/transforms/5382c7c155f66f0bef58a68acf56c089/transformed/emoji2-1.4.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/vikram.gurram/.gradle/caches/8.9/transforms/ea77b062097edc78daea63d6aee8a539/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/vikram.gurram/.gradle/caches/8.9/transforms/ea77b062097edc78daea63d6aee8a539/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.12.0] /Users/vikram.gurram/.gradle/caches/8.9/transforms/168bc7e0993ab5c9943a310a32270f14/transformed/core-1.12.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.12.0] /Users/vikram.gurram/.gradle/caches/8.9/transforms/168bc7e0993ab5c9943a310a32270f14/transformed/core-1.12.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/vikram.gurram/.gradle/caches/8.9/transforms/8a3604989efdcd2222ea9820ca10ef9f/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/vikram.gurram/.gradle/caches/8.9/transforms/8a3604989efdcd2222ea9820ca10ef9f/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/vikram.gurram/.gradle/caches/8.9/transforms/e137a0f8ba4fe09254718d9094d16e51/transformed/profileinstaller-1.3.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/vikram.gurram/.gradle/caches/8.9/transforms/e137a0f8ba4fe09254718d9094d16e51/transformed/profileinstaller-1.3.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/vikram.gurram/.gradle/caches/8.9/transforms/099a3c68de60d0a5289d1a1f1c48b873/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/vikram.gurram/.gradle/caches/8.9/transforms/099a3c68de60d0a5289d1a1f1c48b873/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+	android:extractNativeLibs
+		INJECTED from /Users/vikram.gurram/CursorProjects/thermal_application/android_app/app/src/main/AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.12.0] /Users/vikram.gurram/.gradle/caches/8.9/transforms/168bc7e0993ab5c9943a310a32270f14/transformed/core-1.12.0/AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from /Users/vikram.gurram/CursorProjects/thermal_application/android_app/app/src/main/AndroidManifest.xml:18:9-35
+	android:label
+		ADDED from /Users/vikram.gurram/CursorProjects/thermal_application/android_app/app/src/main/AndroidManifest.xml:16:9-41
+	android:roundIcon
+		ADDED from /Users/vikram.gurram/CursorProjects/thermal_application/android_app/app/src/main/AndroidManifest.xml:17:9-50
+	android:icon
+		ADDED from /Users/vikram.gurram/CursorProjects/thermal_application/android_app/app/src/main/AndroidManifest.xml:15:9-45
+	android:allowBackup
+		ADDED from /Users/vikram.gurram/CursorProjects/thermal_application/android_app/app/src/main/AndroidManifest.xml:13:9-35
+	android:theme
+		ADDED from /Users/vikram.gurram/CursorProjects/thermal_application/android_app/app/src/main/AndroidManifest.xml:19:9-48
+	android:usesCleartextTraffic
+		ADDED from /Users/vikram.gurram/CursorProjects/thermal_application/android_app/app/src/main/AndroidManifest.xml:14:9-44
+activity#com.thermal.hil.MainActivity
+ADDED from /Users/vikram.gurram/CursorProjects/thermal_application/android_app/app/src/main/AndroidManifest.xml:20:9-28:20
+	android:exported
+		ADDED from /Users/vikram.gurram/CursorProjects/thermal_application/android_app/app/src/main/AndroidManifest.xml:22:13-36
+	android:theme
+		ADDED from /Users/vikram.gurram/CursorProjects/thermal_application/android_app/app/src/main/AndroidManifest.xml:23:13-52
+	android:name
+		ADDED from /Users/vikram.gurram/CursorProjects/thermal_application/android_app/app/src/main/AndroidManifest.xml:21:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/vikram.gurram/CursorProjects/thermal_application/android_app/app/src/main/AndroidManifest.xml:24:13-27:29
+action#android.intent.action.MAIN
+ADDED from /Users/vikram.gurram/CursorProjects/thermal_application/android_app/app/src/main/AndroidManifest.xml:25:17-69
+	android:name
+		ADDED from /Users/vikram.gurram/CursorProjects/thermal_application/android_app/app/src/main/AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/vikram.gurram/CursorProjects/thermal_application/android_app/app/src/main/AndroidManifest.xml:26:17-77
+	android:name
+		ADDED from /Users/vikram.gurram/CursorProjects/thermal_application/android_app/app/src/main/AndroidManifest.xml:26:27-74
+activity#com.thermal.hil.ev.EvNavigationActivity
+ADDED from /Users/vikram.gurram/CursorProjects/thermal_application/android_app/app/src/main/AndroidManifest.xml:29:9-38:20
+	android:label
+		ADDED from /Users/vikram.gurram/CursorProjects/thermal_application/android_app/app/src/main/AndroidManifest.xml:33:13-47
+	android:exported
+		ADDED from /Users/vikram.gurram/CursorProjects/thermal_application/android_app/app/src/main/AndroidManifest.xml:31:13-36
+	android:theme
+		ADDED from /Users/vikram.gurram/CursorProjects/thermal_application/android_app/app/src/main/AndroidManifest.xml:32:13-52
+	android:name
+		ADDED from /Users/vikram.gurram/CursorProjects/thermal_application/android_app/app/src/main/AndroidManifest.xml:30:13-52
+uses-sdk
+INJECTED from /Users/vikram.gurram/CursorProjects/thermal_application/android_app/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/vikram.gurram/CursorProjects/thermal_application/android_app/app/src/main/AndroidManifest.xml
+INJECTED from /Users/vikram.gurram/CursorProjects/thermal_application/android_app/app/src/main/AndroidManifest.xml
+MERGED from [androidx.compose.material3:material3:1.1.2] /Users/vikram.gurram/.gradle/caches/8.9/transforms/82bf31392b73b60d15233224aa9ca357/transformed/material3-1.1.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material3:material3:1.1.2] /Users/vikram.gurram/.gradle/caches/8.9/transforms/82bf31392b73b60d15233224aa9ca357/transformed/material3-1.1.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.1] /Users/vikram.gurram/.gradle/caches/8.9/transforms/d415e4abba96d7d28a48455813011716/transformed/activity-1.8.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.1] /Users/vikram.gurram/.gradle/caches/8.9/transforms/d415e4abba96d7d28a48455813011716/transformed/activity-1.8.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.8.1] /Users/vikram.gurram/.gradle/caches/8.9/transforms/0dd29ff4cefcc165e4d58069bece8d96/transformed/activity-ktx-1.8.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.8.1] /Users/vikram.gurram/.gradle/caches/8.9/transforms/0dd29ff4cefcc165e4d58069bece8d96/transformed/activity-ktx-1.8.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-compose:1.8.1] /Users/vikram.gurram/.gradle/caches/8.9/transforms/b8df9889205446d921f6a27e2552dfe3/transformed/activity-compose-1.8.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-compose:1.8.1] /Users/vikram.gurram/.gradle/caches/8.9/transforms/b8df9889205446d921f6a27e2552dfe3/transformed/activity-compose-1.8.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.5.4] /Users/vikram.gurram/.gradle/caches/8.9/transforms/53b41f9ab0de5bbd8be4a13322272732/transformed/animation-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.5.4] /Users/vikram.gurram/.gradle/caches/8.9/transforms/53b41f9ab0de5bbd8be4a13322272732/transformed/animation-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.5.4] /Users/vikram.gurram/.gradle/caches/8.9/transforms/747a4aa0a949c19308fd6f4baf4bad19/transformed/material-icons-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.5.4] /Users/vikram.gurram/.gradle/caches/8.9/transforms/747a4aa0a949c19308fd6f4baf4bad19/transformed/material-icons-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-extended-android:1.5.4] /Users/vikram.gurram/.gradle/caches/8.9/transforms/d001cbaea330d666e6d03f4d6ca439f8/transformed/material-icons-extended-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-extended-android:1.5.4] /Users/vikram.gurram/.gradle/caches/8.9/transforms/d001cbaea330d666e6d03f4d6ca439f8/transformed/material-icons-extended-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.5.4] /Users/vikram.gurram/.gradle/caches/8.9/transforms/518ab34036c44700deee0be4ee20fc4b/transformed/material-ripple-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.5.4] /Users/vikram.gurram/.gradle/caches/8.9/transforms/518ab34036c44700deee0be4ee20fc4b/transformed/material-ripple-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.5.4] /Users/vikram.gurram/.gradle/caches/8.9/transforms/33dd6451a3c2afc4182ff6e0ba8a1fd5/transformed/animation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.5.4] /Users/vikram.gurram/.gradle/caches/8.9/transforms/33dd6451a3c2afc4182ff6e0ba8a1fd5/transformed/animation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.5.4] /Users/vikram.gurram/.gradle/caches/8.9/transforms/b03867e83aa6a398b9a346977d9b8616/transformed/foundation-layout-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.5.4] /Users/vikram.gurram/.gradle/caches/8.9/transforms/b03867e83aa6a398b9a346977d9b8616/transformed/foundation-layout-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.5.4] /Users/vikram.gurram/.gradle/caches/8.9/transforms/a4818163090b0295d3e57cbb3da6e80c/transformed/foundation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.5.4] /Users/vikram.gurram/.gradle/caches/8.9/transforms/a4818163090b0295d3e57cbb3da6e80c/transformed/foundation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.5.4] /Users/vikram.gurram/.gradle/caches/8.9/transforms/295c5182329adb814a789fd6f8f6e364/transformed/ui-unit-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.5.4] /Users/vikram.gurram/.gradle/caches/8.9/transforms/295c5182329adb814a789fd6f8f6e364/transformed/ui-unit-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.5.4] /Users/vikram.gurram/.gradle/caches/8.9/transforms/ee27efe0561401074e5bd72412aa9988/transformed/ui-geometry-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.5.4] /Users/vikram.gurram/.gradle/caches/8.9/transforms/ee27efe0561401074e5bd72412aa9988/transformed/ui-geometry-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.5.4] /Users/vikram.gurram/.gradle/caches/8.9/transforms/c0c59750430fc59e4ad6731db9ba23ea/transformed/ui-util-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.5.4] /Users/vikram.gurram/.gradle/caches/8.9/transforms/c0c59750430fc59e4ad6731db9ba23ea/transformed/ui-util-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.5.4] /Users/vikram.gurram/.gradle/caches/8.9/transforms/ff97859a19d4bc912e55d442026b8084/transformed/ui-tooling-preview-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.5.4] /Users/vikram.gurram/.gradle/caches/8.9/transforms/ff97859a19d4bc912e55d442026b8084/transformed/ui-tooling-preview-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.5.4] /Users/vikram.gurram/.gradle/caches/8.9/transforms/008ed08077d436e455a4a6ee1a6741c8/transformed/ui-graphics-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.5.4] /Users/vikram.gurram/.gradle/caches/8.9/transforms/008ed08077d436e455a4a6ee1a6741c8/transformed/ui-graphics-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.5.4] /Users/vikram.gurram/.gradle/caches/8.9/transforms/efe271590e6cb1c56d15cf1b4b6a11d5/transformed/ui-text-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.5.4] /Users/vikram.gurram/.gradle/caches/8.9/transforms/efe271590e6cb1c56d15cf1b4b6a11d5/transformed/ui-text-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.4.0] /Users/vikram.gurram/.gradle/caches/8.9/transforms/5382c7c155f66f0bef58a68acf56c089/transformed/emoji2-1.4.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.4.0] /Users/vikram.gurram/.gradle/caches/8.9/transforms/5382c7c155f66f0bef58a68acf56c089/transformed/emoji2-1.4.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/vikram.gurram/.gradle/caches/8.9/transforms/ea77b062097edc78daea63d6aee8a539/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/vikram.gurram/.gradle/caches/8.9/transforms/ea77b062097edc78daea63d6aee8a539/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /Users/vikram.gurram/.gradle/caches/8.9/transforms/b568302b8f2a93a77bbad84b524b4f8b/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /Users/vikram.gurram/.gradle/caches/8.9/transforms/b568302b8f2a93a77bbad84b524b4f8b/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /Users/vikram.gurram/.gradle/caches/8.9/transforms/aa451bd7836dcc5babca217e52ec8307/transformed/lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /Users/vikram.gurram/.gradle/caches/8.9/transforms/aa451bd7836dcc5babca217e52ec8307/transformed/lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] /Users/vikram.gurram/.gradle/caches/8.9/transforms/6e30b4d4991cb3ad60bc3593e5a24afa/transformed/lifecycle-viewmodel-ktx-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] /Users/vikram.gurram/.gradle/caches/8.9/transforms/6e30b4d4991cb3ad60bc3593e5a24afa/transformed/lifecycle-viewmodel-ktx-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/vikram.gurram/.gradle/caches/8.9/transforms/6e9be89b67822459b7dc86c30f3b146f/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/vikram.gurram/.gradle/caches/8.9/transforms/6e9be89b67822459b7dc86c30f3b146f/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/vikram.gurram/.gradle/caches/8.9/transforms/b544fab7c4d2b2df03c3dcb4355edd90/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/vikram.gurram/.gradle/caches/8.9/transforms/b544fab7c4d2b2df03c3dcb4355edd90/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /Users/vikram.gurram/.gradle/caches/8.9/transforms/d5c59b4b8543330647c78f83c15be06b/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /Users/vikram.gurram/.gradle/caches/8.9/transforms/d5c59b4b8543330647c78f83c15be06b/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /Users/vikram.gurram/.gradle/caches/8.9/transforms/ae289b0010cd942cd58f04f47c86abc0/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /Users/vikram.gurram/.gradle/caches/8.9/transforms/ae289b0010cd942cd58f04f47c86abc0/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.2] /Users/vikram.gurram/.gradle/caches/8.9/transforms/6d2176dc697b0fbdb59f023542ef0e8f/transformed/lifecycle-runtime-ktx-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.2] /Users/vikram.gurram/.gradle/caches/8.9/transforms/6d2176dc697b0fbdb59f023542ef0e8f/transformed/lifecycle-runtime-ktx-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose:2.6.2] /Users/vikram.gurram/.gradle/caches/8.9/transforms/ab1a05a818fc898bac32567633c922ec/transformed/lifecycle-runtime-compose-2.6.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose:2.6.2] /Users/vikram.gurram/.gradle/caches/8.9/transforms/ab1a05a818fc898bac32567633c922ec/transformed/lifecycle-runtime-compose-2.6.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.5.4] /Users/vikram.gurram/.gradle/caches/8.9/transforms/794342adf9940a7ab5878b5fe6a24596/transformed/ui-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.5.4] /Users/vikram.gurram/.gradle/caches/8.9/transforms/794342adf9940a7ab5878b5fe6a24596/transformed/ui-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/vikram.gurram/.gradle/caches/8.9/transforms/2404267297f58be4ec46cf663b4bb140/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/vikram.gurram/.gradle/caches/8.9/transforms/2404267297f58be4ec46cf663b4bb140/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.12.0] /Users/vikram.gurram/.gradle/caches/8.9/transforms/168bc7e0993ab5c9943a310a32270f14/transformed/core-1.12.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.12.0] /Users/vikram.gurram/.gradle/caches/8.9/transforms/168bc7e0993ab5c9943a310a32270f14/transformed/core-1.12.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/vikram.gurram/.gradle/caches/8.9/transforms/38e83b78a9980d2ac253eef9282eb37e/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/vikram.gurram/.gradle/caches/8.9/transforms/38e83b78a9980d2ac253eef9282eb37e/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.core:core-ktx:1.12.0] /Users/vikram.gurram/.gradle/caches/8.9/transforms/2fd7f75214b38a9de28337433fefa400/transformed/core-ktx-1.12.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.12.0] /Users/vikram.gurram/.gradle/caches/8.9/transforms/2fd7f75214b38a9de28337433fefa400/transformed/core-ktx-1.12.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/vikram.gurram/.gradle/caches/8.9/transforms/4c389516d2c39fc31f3be5862cf6a808/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/vikram.gurram/.gradle/caches/8.9/transforms/4c389516d2c39fc31f3be5862cf6a808/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.5.4] /Users/vikram.gurram/.gradle/caches/8.9/transforms/8a565868c6bf34b8f02354694d6357bc/transformed/runtime-saveable-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.5.4] /Users/vikram.gurram/.gradle/caches/8.9/transforms/8a565868c6bf34b8f02354694d6357bc/transformed/runtime-saveable-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.5.4] /Users/vikram.gurram/.gradle/caches/8.9/transforms/fe272848f4e20646970e1e59550d8357/transformed/runtime-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.5.4] /Users/vikram.gurram/.gradle/caches/8.9/transforms/fe272848f4e20646970e1e59550d8357/transformed/runtime-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/vikram.gurram/.gradle/caches/8.9/transforms/594d6cc76d569382bca5d95943ae2d26/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/vikram.gurram/.gradle/caches/8.9/transforms/594d6cc76d569382bca5d95943ae2d26/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/vikram.gurram/.gradle/caches/8.9/transforms/8a3604989efdcd2222ea9820ca10ef9f/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/vikram.gurram/.gradle/caches/8.9/transforms/8a3604989efdcd2222ea9820ca10ef9f/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/vikram.gurram/.gradle/caches/8.9/transforms/fdba6b52352237eccbcca2adb38fbb51/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/vikram.gurram/.gradle/caches/8.9/transforms/fdba6b52352237eccbcca2adb38fbb51/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/vikram.gurram/.gradle/caches/8.9/transforms/e137a0f8ba4fe09254718d9094d16e51/transformed/profileinstaller-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/vikram.gurram/.gradle/caches/8.9/transforms/e137a0f8ba4fe09254718d9094d16e51/transformed/profileinstaller-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/vikram.gurram/.gradle/caches/8.9/transforms/099a3c68de60d0a5289d1a1f1c48b873/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/vikram.gurram/.gradle/caches/8.9/transforms/099a3c68de60d0a5289d1a1f1c48b873/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/vikram.gurram/.gradle/caches/8.9/transforms/5fc0e0d86a83911aa9a6a55161cd2d4c/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/vikram.gurram/.gradle/caches/8.9/transforms/5fc0e0d86a83911aa9a6a55161cd2d4c/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+	android:targetSdkVersion
+		INJECTED from /Users/vikram.gurram/CursorProjects/thermal_application/android_app/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/vikram.gurram/CursorProjects/thermal_application/android_app/app/src/main/AndroidManifest.xml
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/vikram.gurram/.gradle/caches/8.9/transforms/5382c7c155f66f0bef58a68acf56c089/transformed/emoji2-1.4.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/vikram.gurram/.gradle/caches/8.9/transforms/ea77b062097edc78daea63d6aee8a539/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/vikram.gurram/.gradle/caches/8.9/transforms/ea77b062097edc78daea63d6aee8a539/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/vikram.gurram/.gradle/caches/8.9/transforms/e137a0f8ba4fe09254718d9094d16e51/transformed/profileinstaller-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/vikram.gurram/.gradle/caches/8.9/transforms/e137a0f8ba4fe09254718d9094d16e51/transformed/profileinstaller-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/vikram.gurram/.gradle/caches/8.9/transforms/099a3c68de60d0a5289d1a1f1c48b873/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/vikram.gurram/.gradle/caches/8.9/transforms/099a3c68de60d0a5289d1a1f1c48b873/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/vikram.gurram/.gradle/caches/8.9/transforms/5382c7c155f66f0bef58a68acf56c089/transformed/emoji2-1.4.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/vikram.gurram/.gradle/caches/8.9/transforms/5382c7c155f66f0bef58a68acf56c089/transformed/emoji2-1.4.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/vikram.gurram/.gradle/caches/8.9/transforms/5382c7c155f66f0bef58a68acf56c089/transformed/emoji2-1.4.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/vikram.gurram/.gradle/caches/8.9/transforms/5382c7c155f66f0bef58a68acf56c089/transformed/emoji2-1.4.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/vikram.gurram/.gradle/caches/8.9/transforms/5382c7c155f66f0bef58a68acf56c089/transformed/emoji2-1.4.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/vikram.gurram/.gradle/caches/8.9/transforms/5382c7c155f66f0bef58a68acf56c089/transformed/emoji2-1.4.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/vikram.gurram/.gradle/caches/8.9/transforms/5382c7c155f66f0bef58a68acf56c089/transformed/emoji2-1.4.0/AndroidManifest.xml:30:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/vikram.gurram/.gradle/caches/8.9/transforms/ea77b062097edc78daea63d6aee8a539/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/vikram.gurram/.gradle/caches/8.9/transforms/ea77b062097edc78daea63d6aee8a539/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/vikram.gurram/.gradle/caches/8.9/transforms/ea77b062097edc78daea63d6aee8a539/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:30:17-78
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] /Users/vikram.gurram/.gradle/caches/8.9/transforms/168bc7e0993ab5c9943a310a32270f14/transformed/core-1.12.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.12.0] /Users/vikram.gurram/.gradle/caches/8.9/transforms/168bc7e0993ab5c9943a310a32270f14/transformed/core-1.12.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.12.0] /Users/vikram.gurram/.gradle/caches/8.9/transforms/168bc7e0993ab5c9943a310a32270f14/transformed/core-1.12.0/AndroidManifest.xml:23:9-81
+permission#com.thermal.hil.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] /Users/vikram.gurram/.gradle/caches/8.9/transforms/168bc7e0993ab5c9943a310a32270f14/transformed/core-1.12.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.12.0] /Users/vikram.gurram/.gradle/caches/8.9/transforms/168bc7e0993ab5c9943a310a32270f14/transformed/core-1.12.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.12.0] /Users/vikram.gurram/.gradle/caches/8.9/transforms/168bc7e0993ab5c9943a310a32270f14/transformed/core-1.12.0/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] /Users/vikram.gurram/.gradle/caches/8.9/transforms/168bc7e0993ab5c9943a310a32270f14/transformed/core-1.12.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.12.0] /Users/vikram.gurram/.gradle/caches/8.9/transforms/168bc7e0993ab5c9943a310a32270f14/transformed/core-1.12.0/AndroidManifest.xml:26:22-94
+uses-permission#com.thermal.hil.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] /Users/vikram.gurram/.gradle/caches/8.9/transforms/168bc7e0993ab5c9943a310a32270f14/transformed/core-1.12.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.12.0] /Users/vikram.gurram/.gradle/caches/8.9/transforms/168bc7e0993ab5c9943a310a32270f14/transformed/core-1.12.0/AndroidManifest.xml:26:22-94
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/vikram.gurram/.gradle/caches/8.9/transforms/e137a0f8ba4fe09254718d9094d16e51/transformed/profileinstaller-1.3.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/vikram.gurram/.gradle/caches/8.9/transforms/e137a0f8ba4fe09254718d9094d16e51/transformed/profileinstaller-1.3.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/vikram.gurram/.gradle/caches/8.9/transforms/e137a0f8ba4fe09254718d9094d16e51/transformed/profileinstaller-1.3.0/AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/vikram.gurram/.gradle/caches/8.9/transforms/e137a0f8ba4fe09254718d9094d16e51/transformed/profileinstaller-1.3.0/AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/vikram.gurram/.gradle/caches/8.9/transforms/e137a0f8ba4fe09254718d9094d16e51/transformed/profileinstaller-1.3.0/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/vikram.gurram/.gradle/caches/8.9/transforms/e137a0f8ba4fe09254718d9094d16e51/transformed/profileinstaller-1.3.0/AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/vikram.gurram/.gradle/caches/8.9/transforms/e137a0f8ba4fe09254718d9094d16e51/transformed/profileinstaller-1.3.0/AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/vikram.gurram/.gradle/caches/8.9/transforms/e137a0f8ba4fe09254718d9094d16e51/transformed/profileinstaller-1.3.0/AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/vikram.gurram/.gradle/caches/8.9/transforms/e137a0f8ba4fe09254718d9094d16e51/transformed/profileinstaller-1.3.0/AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/vikram.gurram/.gradle/caches/8.9/transforms/e137a0f8ba4fe09254718d9094d16e51/transformed/profileinstaller-1.3.0/AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/vikram.gurram/.gradle/caches/8.9/transforms/e137a0f8ba4fe09254718d9094d16e51/transformed/profileinstaller-1.3.0/AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/vikram.gurram/.gradle/caches/8.9/transforms/e137a0f8ba4fe09254718d9094d16e51/transformed/profileinstaller-1.3.0/AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/vikram.gurram/.gradle/caches/8.9/transforms/e137a0f8ba4fe09254718d9094d16e51/transformed/profileinstaller-1.3.0/AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/vikram.gurram/.gradle/caches/8.9/transforms/e137a0f8ba4fe09254718d9094d16e51/transformed/profileinstaller-1.3.0/AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/vikram.gurram/.gradle/caches/8.9/transforms/e137a0f8ba4fe09254718d9094d16e51/transformed/profileinstaller-1.3.0/AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/vikram.gurram/.gradle/caches/8.9/transforms/e137a0f8ba4fe09254718d9094d16e51/transformed/profileinstaller-1.3.0/AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/vikram.gurram/.gradle/caches/8.9/transforms/e137a0f8ba4fe09254718d9094d16e51/transformed/profileinstaller-1.3.0/AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/vikram.gurram/.gradle/caches/8.9/transforms/e137a0f8ba4fe09254718d9094d16e51/transformed/profileinstaller-1.3.0/AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/vikram.gurram/.gradle/caches/8.9/transforms/e137a0f8ba4fe09254718d9094d16e51/transformed/profileinstaller-1.3.0/AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/vikram.gurram/.gradle/caches/8.9/transforms/e137a0f8ba4fe09254718d9094d16e51/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/vikram.gurram/.gradle/caches/8.9/transforms/e137a0f8ba4fe09254718d9094d16e51/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:25-92

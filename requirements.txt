@@ -1,0 +1,5 @@
+# Thermal HIL tests (test_thermal_hil_1.py, test_thermal_hil_2.py)
+eclipse-zenoh>=0.10.0
+
+# Web UI for thermal_hil_live_ui.py --web
+flask>=2.0.0
